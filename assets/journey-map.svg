@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 470" role="img" aria-labelledby="map-title map-desc">
+<title id="map-title">三島から富士山へ、旅のエリアマップ</title>
+<desc id="map-desc">北を上にした概略図。南東の三島駅から北西の富士宮口五合目へバスで往復。両地点は直線で約30キロ。五合目から富士宮口山頂までの登山道は片道約4.3キロ。頂上富士館に泊まり、翌朝は剣ヶ峰へ。山頂付近を拡大しており縮尺は一定ではありません。</desc>
+<rect width="480" height="470" rx="4" fill="#edf1ec"/>
+<path d="M0 0H322C307 58 348 120 281 181S129 241 84 319L0 350Z" fill="#dce5da"/>
+<g fill="none" stroke="#c7d3c6" stroke-width="1.2">
+<path d="M0 189C67 251 246 204 271 113S213 4 185 0"/>
+<path d="M0 142C68 209 218 175 235 103S192 6 168 0"/>
+<path d="M19 98C14 172 180 173 199 103S158 28 122 31S20 46 19 98Z"/>
+<path d="M57 97C54 144 161 142 166 96S139 61 110 61S57 62 57 97Z"/>
+</g>
+<g fill="#233a43" font-family="'Noto Sans CJK JP','Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif">
+<g transform="translate(441 35)" fill="none" stroke="#546c76" stroke-width="1.5"><path d="M0 33V0M-5 8L0 0L5 8"/><text x="0" y="52" text-anchor="middle" stroke="none" fill="#546c76" font-size="16">N</text></g>
+<path d="M135 210C125 184 159 172 132 149S127 108 116 87" fill="none" stroke="#a2704b" stroke-width="3.5" stroke-dasharray="3 7" stroke-linecap="round"/>
+<path d="M135 210C77 265 157 300 197 329S243 373 300 390" fill="none" stroke="#547c91" stroke-width="3.5"/>
+<path d="M93 264L101 261L101 270M235 361L227 363L229 354" fill="none" stroke="#547c91" stroke-width="2"/>
+<path d="M91 75L113 42L137 75Z" fill="#f8f9f7" stroke="#718976" stroke-width="2"/>
+<path d="M104 56L110 59L115 55L124 59" fill="none" stroke="#718976" stroke-width="1.4"/>
+<g stroke="#f8f9f7" stroke-width="4"><circle cx="116" cy="87" r="8" fill="#a2704b"/><circle cx="135" cy="210" r="8" fill="#547c91"/><circle cx="300" cy="390" r="9" fill="#547c91"/></g>
+<text x="178" y="67" font-size="24" font-weight="600">富士山頂</text>
+<text x="178" y="96" font-size="18">頂上富士館に宿泊</text>
+<text x="178" y="123" font-size="17" fill="#546c76">翌朝は剣ヶ峰へ</text>
+<text x="174" y="169" font-size="18" fill="#8a5c3c">徒歩・片道 約4.3km</text>
+<text x="163" y="214" font-size="22" font-weight="600">富士宮口五合目</text>
+<text x="163" y="242" font-size="17" fill="#546c76">登山の出発点 / 標高2,400m</text>
+<text x="38" y="303" font-size="18" fill="#406779">バスで往復</text>
+
+<text x="267" y="307" font-size="24" font-weight="600">直線 約30km</text>
+<text x="267" y="334" font-size="17" fill="#546c76">三島駅 ↔ 五合目</text>
+<text x="324" y="396" font-size="24" font-weight="600">三島駅</text>
+<text x="456" y="430" text-anchor="end" font-size="17" fill="#546c76">前泊・温泉・うなぎの拠点</text>
+<text x="24" y="439" font-family="Georgia,serif" font-size="17" font-style="italic" fill="#6e8371">Shizuoka, Japan</text>
+</g>
+</svg>
