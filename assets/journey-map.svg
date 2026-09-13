@@ -13,7 +13,7 @@
 <g transform="translate(441 35)" fill="none" stroke="#546c76" stroke-width="1.5"><path d="M0 33V0M-5 8L0 0L5 8"/><text x="0" y="52" text-anchor="middle" stroke="none" fill="#546c76" font-size="16">N</text></g>
 <path d="M135 210C125 184 159 172 132 149S127 108 116 87" fill="none" stroke="#a2704b" stroke-width="3.5" stroke-dasharray="3 7" stroke-linecap="round"/>
 <path d="M135 210C77 265 157 300 197 329S243 373 300 390" fill="none" stroke="#547c91" stroke-width="3.5"/>
-<path d="M93 264L101 261L101 270M235 361L227 363L229 354" fill="none" stroke="#547c91" stroke-width="2"/>
+
 <path d="M91 75L113 42L137 75Z" fill="#f8f9f7" stroke="#718976" stroke-width="2"/>
 <path d="M104 56L110 59L115 55L124 59" fill="none" stroke="#718976" stroke-width="1.4"/>
 <g stroke="#f8f9f7" stroke-width="4"><circle cx="116" cy="87" r="8" fill="#a2704b"/><circle cx="135" cy="210" r="8" fill="#547c91"/><circle cx="300" cy="390" r="9" fill="#547c91"/></g>
